@@ -1,0 +1,29 @@
+# main links
+main:
+  - title: "Posts"
+    url: /posts/
+  - title: "Projects"
+    url: /project/
+  - title: "Publications"
+    url: https://scholar.google.com/citations?user=mX44cK8AAAAJ&hl=en/
+  #- title: "Personal life"
+  #  url: /personal_life/
+  - title: "Contact"
+    url: /contact/
+  #- title: "About"
+  #  url: /about/
+
+
+docs:
+  - title: "Posts"
+    url: /posts/
+  - title: "Projects"
+    url: /project/
+  - title: "Publications"
+    url: https://scholar.google.com/citations?user=mX44cK8AAAAJ&hl=en/
+  #- title: "Personal life"
+  #  url: /personal_life/
+  - title: "Contact"
+    url: /contact/
+  #- title: "About"
+  #  url: /about/
